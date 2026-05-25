@@ -1,0 +1,41 @@
+.card-box{
+    display: flex;
+    width: 345px;
+    height: 140px;
+    background-color: #F3F3F3;
+    text-align: left;
+    padding: 15px;
+    border-radius: 10px;
+    position: relative;
+    flex-shrink: 0.5;
+}
+.card-box article{
+    margin-bottom: 10px;
+    line-height: 20px;
+    font-size: 0.8em;
+    
+}
+#card-img img{
+    width: 100px;
+}
+.card-box a{
+    text-decoration: none;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: black;
+    
+}
+.card-box #link{
+    height: 30px;
+    width: 60px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 15px;   
+}
+#link:hover{
+    background-color: #F3F3F3;
+}
