@@ -9,6 +9,8 @@ A collection of mini projects built while learning React.
 
 -❤️[Like & Counter](https://sameer-khan-dev.github.io/react-learning-projects/like-button-and-counter/)
 
+-🎲[Ludo Board](https://sameer-khan-dev.github.io/react-learning-projects/ludo-board/)
+
 ## Note
 These were built in my early React learning phase,
 uploading to document my full progress from

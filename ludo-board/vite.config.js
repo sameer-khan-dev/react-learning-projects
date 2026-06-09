@@ -3,7 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/react-learning-projects/uber-explore-cards/",
+  base: "/react-learning-projects/ludo-board/",
   plugins: [react()],
-   
 })
