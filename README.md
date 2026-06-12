@@ -11,6 +11,7 @@ A collection of mini projects built while learning React.
 
 -🎲[Ludo Board](https://sameer-khan-dev.github.io/react-learning-projects/ludo-board/)
 
+-📋[Todo List](https://sameer-khan-dev.github.io/react-learning-projects/todo-list/)
 ## Note
 These were built in my early React learning phase,
 uploading to document my full progress from
