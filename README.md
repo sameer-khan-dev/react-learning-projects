@@ -14,6 +14,9 @@ A collection of mini projects built while learning React.
 -📋[Todo List](https://sameer-khan-dev.github.io/react-learning-projects/todo-list/)
 
 -🎰[Lottery Ticket](https://sameer-khan-dev.github.io/react-learning-projects/lottery-ticket/)
+
+-📃[React Form](https://sameer-khan-dev.github.io/react-learning-projects/react-form/)
+
 ## Note
 These were built in my early React learning phase,
 uploading to document my full progress from
